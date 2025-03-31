@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.divIzquierda{
+    background-color: purple;
+    padding: 3rem;
+}
